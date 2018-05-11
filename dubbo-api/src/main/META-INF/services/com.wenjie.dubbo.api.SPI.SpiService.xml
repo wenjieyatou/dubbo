@@ -1,0 +1,2 @@
+com.wenjie.dubbo.api.SPI.impl.StandardSpiService
+com.wenjie.dubbo.api.SPI.impl.ExtendsSpiService
